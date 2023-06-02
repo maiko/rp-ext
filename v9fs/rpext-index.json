@@ -1,11 +1,11 @@
 {
   "id": "pocopico.v9fs",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/maiko/rp-ext/master/v9fs/rpext-index.json",
   "info": {
     "name": "v9fs",
     "description": "Adds  Support",
     "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/v9fs",
+    "packer_url": "https://github.com/maiko/rp-ext/tree/main/v9fs",
     "help_url": "<todo>"
   },
   "releases": {
@@ -25,6 +25,7 @@
     "ds3622xsp_42962": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/ds3622xsp_42218.json",
     "ds3622xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/ds3622xsp_42218.json",
     "ds3622xsp_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/ds3622xsp_42218.json",
+    "ds3622xsp_64561": "https://raw.githubusercontent.com/maiko/rp-ext/master/v9fs/releases/ds3622xsp_42218.json",
     "ds3622xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/ds3622xsp_42218.json",
     "rs4021xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/ds3622xsp_42218.json",
     "rs4021xsp_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/ds3622xsp_42218.json",
